@@ -5,6 +5,7 @@ This project analyzes the stock performance of Apple (AAPL) and Google (GOOGL) f
 What this project does
 
 Downloads historical stock price data using yfinance
+
 Uses Python to clean and visualize the data
 
 Plots a comparison of closing prices

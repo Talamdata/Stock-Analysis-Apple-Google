@@ -3,6 +3,7 @@ Stock Analysis: Apple vs Google
 This project analyzes the stock performance of Apple (AAPL) and Google (GOOGL) from 2020 to 2024.
 
 What this project does
+
 Downloads historical stock price data using yfinance
 Uses Python to clean and visualize the data
 

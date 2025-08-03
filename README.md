@@ -10,11 +10,17 @@ Uses Python to clean and visualize the data
 Plots a comparison of closing prices
 
 Tools Used
+
 Python
+
 yfinance
+
 pandas
+
 matplotlib
+
 seaborn
+
 Google Colab
 
 Key Insights
